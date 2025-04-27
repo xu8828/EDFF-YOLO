@@ -1,0 +1,9 @@
+train: "/home/xie/xcl/paper/code/yolov8/ultralytics/RUOD/train.txt"
+val: "/home/xie/xcl/paper/code/yolov8/ultralytics/RUOD/val.txt"
+test: "/home/xie/xcl/paper/code/yolov8/ultralytics/RUOD/test.txt"
+
+# number of classes
+nc: 10
+
+# class names
+names: ['holothurian', 'echinus', 'scallop', 'starfish', 'fish', 'corals', 'diver', 'cuttlefish', 'turtle', 'jellyfish']

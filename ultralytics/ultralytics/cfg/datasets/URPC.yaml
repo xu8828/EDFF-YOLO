@@ -1,0 +1,8 @@
+train: "/home/xie/wns/paper/data/train.txt"
+test: "/home/xie/wns/paper/data/test.txt"
+
+# number of classes
+nc: 4
+
+# class names
+names: ['holothurian', 'echinus', 'scallop', 'starfish']
